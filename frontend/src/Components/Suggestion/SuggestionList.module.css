@@ -1,0 +1,23 @@
+
+.ul{
+    list-style-type: none;
+    text-align: center;
+    width: fit-content
+}
+
+.li{
+    
+    cursor: pointer;
+    border: 1px solid #f4f4f4;
+    background-color: #ccc;;
+    border-radius: 4px;
+    margin: 0.1rem auto;
+    align-self: center;
+    z-index: 3;
+    font-size: 15px;
+}
+
+.li:hover{
+    background: rgb(75, 155, 247);
+  
+}

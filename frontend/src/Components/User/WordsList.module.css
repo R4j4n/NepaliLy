@@ -1,0 +1,24 @@
+.words {
+    margin: 2rem auto;
+    width: 90%;
+    max-width: 40rem;
+    /* background-color: #ccc; */
+    max-width: 50rem;
+  }
+  
+  .words ul {
+    list-style: none;
+    padding: 1rem;
+    max-height: 20rem;
+    overflow-y: scroll;
+  }
+  
+  .words li {
+    border: 1px solid #ccc;
+    margin: 0.5rem auto;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    background-color: #ccc;
+    /* width: fit-content; */
+  }
